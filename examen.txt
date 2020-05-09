@@ -1,0 +1,95 @@
+1. Con el árbol de objetos DOM de HTML, JavaScript puede cambiar todos los elementos HTML de la página.
+R=[Verdadero]
+
+2.20px es un valor:
+R= [absoluto]
+
+3.HTML es un lenguaje:
+R= [Interpretado]
+
+4.La abreviación de grid-column-start: 2; y grid-column-end: 5; es:
+R=grid-column: repeat(2, 5);
+R2= grid-column: repeat(5, 2);
+
+5.Atomic Design es:
+R=[Átomos, Moléculas, Organismos, Plantillas y Páginas.]
+
+6.button:hover { background-color: red; } indica:
+R=[Que el botón cambia a color rojo cuando el cursor pasa sobre él.]
+
+7.¿Cuál de las siguientes NO es una unidad relativa?
+R= vw
+R2 = em
+
+8. .card__icon--black es un ejemplo de la sintaxis de:
+R= [BEM]
+
+9. La accesibilidad es sólo una responsabilidad de los desarrolladores.
+R= [Falso]
+
+10. Usando la metodología BEM, un ejemplo de Elemento sería:
+R=[button]
+
+11. La propiedad de CSS que define la distancia desde el borde de un elemento hasta su contenido es:
+R= [padding]
+
+12. Un preprocesador de CSS nos ayuda a:
+R=[Evitar la repetición de código.]
+
+13. La etiqueta <em> y la etiqueta <i> hacen que el texto contenido en ellas sea itálico, sin embargo, <em> influye en:
+R= [El aspecto visual y en el énfasis que se le quiere dar al texto.]
+
+14. Comando para correr nuestro Storybook:
+R= [npm run storybook]
+
+15. Con el código semántico buscamos la etiqueta más apropiada para su contenido. Por esa razón, la etiqueta más apropiada para escribir un párrafo es:
+R= [<p>]
+
+16. Podemos heredar estilos en SASS usando:
+R= [@extend]
+
+17. Con flexbox, (con el valor por defecto de flex-direction), para centrar un elemento verticalmente utilizo:
+R=[align-items: center;]
+
+18. grid-template-columns: 1fr 1fr 1fr; se puede escribir como:
+R= grid-template: repeat(1fr, 3);
+R2= grid-template-columns: repeat(1fr, 3);
+
+19. ¿Qué herramienta nos permite a los desarrolladores crear componentes de forma independiente y mostrarlos de manera interactiva en un entorno de desarrollo aislado?
+R= VSCode
+R2 = Sistema de validacion de etiquetas
+
+20. ¿Cuál es el comando para convertir nuestro proyecto de CSS a SASS?
+R= sass mi-ruta/styles.sass mi-ruta/styles.css
+R2= sass mi-ruta/styles.css mi-ruta/styles.scss
+
+21. Una variable en SASS tiene la siguiente sintaxis:
+R= [$primary-color: #141414;]
+
+22. Con flexbox (con el valor por defecto de flex-direction) para centrar un elemento de manera horizontal debo usar:
+R= [justify-content: center;]
+
+23. ¿Cuál de los siguientes NO es un Lector de Pantalla?
+R=  [ANDI]
+
+24. Para asegurarnos de que nuestro código HTML está bien escrito podemos usar:
+R= [Un sistema de validación de etiquetas.]
+
+25. Selecciona todos los elementos <p> donde el padre es un elemento <div>
+R= [div > p]
+
+26. Cuál de los siguientes NO es un selector de CSS:
+R= [:class]
+
+27. Un pseudo-elemento se puede utilizar para:
+R= [Dar estilo a partes específicas de un elemento.]
+
+28. ¿Cuáles son los tipos de errores de escritura en el código que hacen que el programa no funcione?
+R= [Errores sintácticos.]
+
+29. El sistema de diseño de layout más potente disponible en CSS es:
+R= [CSS Grid]
+
+30. Es la manera mediante la cual los navegadores deciden qué valores de una propiedad de CSS son más relevantes para un elemento:
+R= Proceso de renderizado de la Web.
+R2 = !important
