@@ -8,8 +8,7 @@ R= [absoluto]
 R= [Interpretado]
 
 4.La abreviación de grid-column-start: 2; y grid-column-end: 5; es:
-R=grid-column: repeat(2, 5);
-R2= grid-column: repeat(5, 2);
+R=[grid-column: 2/5]
 
 5.Atomic Design es:
 R=[Átomos, Moléculas, Organismos, Plantillas y Páginas.]
@@ -20,6 +19,7 @@ R=[Que el botón cambia a color rojo cuando el cursor pasa sobre él.]
 7.¿Cuál de las siguientes NO es una unidad relativa?
 R= vw
 R2 = em
+R3 = %
 
 8. .card__icon--black es un ejemplo de la sintaxis de:
 R= [BEM]
@@ -52,16 +52,15 @@ R= [@extend]
 R=[align-items: center;]
 
 18. grid-template-columns: 1fr 1fr 1fr; se puede escribir como:
-R= grid-template: repeat(1fr, 3);
-R2= grid-template-columns: repeat(1fr, 3);
+R=  [grid-template-columns: repeat(3, 1fr)]
 
 19. ¿Qué herramienta nos permite a los desarrolladores crear componentes de forma independiente y mostrarlos de manera interactiva en un entorno de desarrollo aislado?
-R= VSCode
-R2 = Sistema de validacion de etiquetas
+R= [Storybook]
 
 20. ¿Cuál es el comando para convertir nuestro proyecto de CSS a SASS?
 R= sass mi-ruta/styles.sass mi-ruta/styles.css
 R2= sass mi-ruta/styles.css mi-ruta/styles.scss
+R3= sass mi-ruta/styles.css mi-ruta/styles.sass
 
 21. Una variable en SASS tiene la siguiente sintaxis:
 R= [$primary-color: #141414;]
@@ -91,5 +90,4 @@ R= [Errores sintácticos.]
 R= [CSS Grid]
 
 30. Es la manera mediante la cual los navegadores deciden qué valores de una propiedad de CSS son más relevantes para un elemento:
-R= Proceso de renderizado de la Web.
-R2 = !important
+R= [Especificidad]
